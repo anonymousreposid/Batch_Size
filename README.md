@@ -7,3 +7,5 @@ The study investigates how processing multiple LTL formulas within a single infe
 Our objective is to understand whether batch prompting can reduce inference overhead and token consumption while maintaining the translation quality and semantic correctness of generated natural language descriptions.
 
 The repository is anonymized for double-blind review.
+
+The Codes will be available by 15th Nov 
